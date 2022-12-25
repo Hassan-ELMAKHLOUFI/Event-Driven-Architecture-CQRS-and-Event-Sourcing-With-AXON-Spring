@@ -2,7 +2,7 @@
 
 # Partie Ecriture
 
-# Commandq
+# Command
 ```java
 
 package ma.hassan.accountserviceaxon.commonapi.commands;
